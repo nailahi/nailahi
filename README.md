@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nailahi
 - 👀 I’m interested in CyberSecurity
-- 🌱 I’m currently learning Software Developement
+- 🌱 I’m currently learning Software Development
 - 💞️ I’m looking to collaborate on innovative security systems
 - 📫 How to reach me nailahij@gmail.com
 
