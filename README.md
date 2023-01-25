@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nailahi
+- 👋 Hi, I’m Nailah
 - 👀 I’m interested in CyberSecurity
 - 🌱 I’m currently learning Software Development
 - 💞️ I’m looking to collaborate on innovative security systems
